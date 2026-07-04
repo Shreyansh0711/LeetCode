@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Shreyansh0711/LeetCode/tree/master/0994-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Shreyansh0711/LeetCode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Shreyansh0711/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
