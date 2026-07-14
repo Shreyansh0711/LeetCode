@@ -1,43 +1,34 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& adj,
-             vector<int>& vis, vector<int>& pathVis) {
-
-        vis[node] = 1;
-        pathVis[node] = 1;
-
-        for (auto ad : adj[node]) {
-            if (!vis[ad]) {
-                if (dfs(ad, adj, vis, pathVis))
-                    return true;
-            }
-            else if (pathVis[ad]) {
-                return true;
-            }
-        }
-
-        pathVis[node] = 0;
-        return false;
-    }
-
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-
+        vector<int> ig(numCourses, 0);
         vector<vector<int>> adj(numCourses);
 
-        for (auto &it : prerequisites) {
-            adj[it[1]].push_back(it[0]);
+        for (auto& it : prerequisites) {
+            int course = it[0];
+            int prereq = it[1];
+
+            adj[prereq].push_back(course);
+            ig[course]++;
         }
-
-        vector<int> vis(numCourses, 0);
-        vector<int> pathVis(numCourses, 0);
-
+        queue<int> q;
         for (int i = 0; i < numCourses; i++) {
-            if (!vis[i]) {
-                if (dfs(i, adj, vis, pathVis))
-                    return false;   // Cycle found
+            if (ig[i] == 0) {
+                q.push(i);
             }
         }
-
-        return true;    // No cycle
-    }
+        int cnt = 0;
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+            cnt++;
+            for (auto it : adj[node]) {
+                ig[it]--;
+                if (ig[it] == 0) {
+                    q.push(it);
+                }
+            }
+        }
+        return cnt == numCourses;
+    };
 };
