@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shreyansh0711/LeetCode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Shreyansh0711/LeetCode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0137-single-number-ii) |
+| [0164-maximum-gap](https://github.com/Shreyansh0711/LeetCode/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shreyansh0711/LeetCode/tree/master/0733-flood-fill) |
@@ -145,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreyansh0711/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shreyansh0711/LeetCode/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shreyansh0711/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shreyansh0711/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
