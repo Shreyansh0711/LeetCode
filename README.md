@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Shreyansh0711/LeetCode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Shreyansh0711/LeetCode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0137-single-number-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Shreyansh0711/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Shreyansh0711/LeetCode/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
