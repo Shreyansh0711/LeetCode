@@ -1,28 +1,14 @@
 class Solution {
 public:
-    int jump(int idx, vector<int>& nums, vector<int>& dp) {
-
-        if (idx == 0)
-            return nums[0];
-
-        if (idx < 0)
-            return 0;
-
-        if (dp[idx] != -1)
-            return dp[idx];
-
-        int rob = jump(idx - 2, nums, dp) + nums[idx];
-        int notRob = jump(idx - 1, nums, dp);
-
-        return dp[idx] = max(rob, notRob);
-    }
-
     int rob(vector<int>& nums) {
-
         int n = nums.size();
-
-        vector<int> dp(n, -1);
-
-        return jump(n - 1, nums, dp);
+        vector<int> dp(n,0);
+        dp[0]=nums[0];
+        if(n==1)return nums[0];
+        dp[1]=max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            dp[i]=max((dp[i-1]),(dp[i-2]+nums[i]));
+        }
+        return dp[n-1];
     }
 };
