@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Shreyansh0711/LeetCode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Shreyansh0711/LeetCode/tree/master/0130-surrounded-regions) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Shreyansh0711/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/0200-number-of-islands) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Shreyansh0711/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Shreyansh0711/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
