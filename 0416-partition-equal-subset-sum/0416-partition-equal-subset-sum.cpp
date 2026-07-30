@@ -6,7 +6,7 @@ public:
         if(dp[idx][tar]!=-1){
             return dp[idx][tar];
         }
-        int notpick=find(idx-1,tar,nums,dp);
+        bool notpick=find(idx-1,tar,nums,dp);
         bool pick=false;
         if(nums[idx]<=tar){
             pick=find(idx-1,tar-nums[idx],nums,dp);
