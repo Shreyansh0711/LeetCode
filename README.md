@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Shreyansh0711/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shreyansh0711/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreyansh0711/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Shreyansh0711/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Shreyansh0711/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -253,10 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0112-path-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0112-path-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
