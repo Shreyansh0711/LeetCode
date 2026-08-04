@@ -1,34 +1,33 @@
 class Solution {
 public:
-    int find(int idx, int target, vector<int>& nums,
-             vector<vector<int>>& dp, int offset) {
-        if (target < -offset || target > offset)
-            return 0;
-
-        if (idx < 0)
-            return target == 0;
-
-        if (dp[idx][target + offset] != -1)
-            return dp[idx][target + offset];
-
-        int plus = find(idx - 1, target - nums[idx], nums, dp, offset);
-        int minus = find(idx - 1, target + nums[idx], nums, dp, offset);
-
-        return dp[idx][target + offset] = plus + minus;
-    }
-
+   int find(int idx, int target, vector<int>& arr, vector<vector<int>> &dp) {
+		if (idx == 0) {
+			if (target == 0 && arr[0] == 0)
+				return 2;
+			if (target == 0 || arr[0] == target)
+				return 1;
+			return 0;
+		}
+		if (dp[idx][target] != -1) {
+			return dp[idx][target];
+		}
+		int np = find(idx - 1, target, arr, dp);
+		int pick = 0;
+		if (arr[idx] <= target) {
+			pick = find(idx - 1, target - arr[idx], arr, dp);
+		}
+		
+		return dp[idx][target] = (pick + np);
+	}
     int findTargetSumWays(vector<int>& nums, int target) {
-
-        int sum = 0;
-        for (int x : nums)
-            sum += x;
-        if (abs(target) > sum)
-            return 0;
-
-        int offset = sum;
-        vector<vector<int>> dp(nums.size(),
-                               vector<int>(2 * sum + 1, -1));
-
-        return find(nums.size() - 1, target, nums, dp, offset);
+        int tot = 0;
+		for (int x:nums) {
+			tot += x;
+		}
+		if ((tot - target)%2 != 0 || (tot - target)<0) {
+			return 0;
+		}
+		vector<vector<int>> dp(nums.size(), vector<int>((tot - target)/2 + 1, -1));
+		return find(nums.size() - 1, (tot - target)/2, nums, dp);
     }
 };
