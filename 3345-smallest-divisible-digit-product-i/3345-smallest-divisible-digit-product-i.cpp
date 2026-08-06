@@ -1,22 +1,16 @@
 class Solution {
 public:
+    int product_digit(int x){
+        int ans=1, d=0;
+        for(; x; x/=10){
+            d=x%10;
+            ans*=d;
+        }
+        return ans;
+    }
     int smallestNumber(int n, int t) {
-        
-        int num=1;
-        while(true){
-            int temp=n;
-            int curr=1;
-            while(temp>0){
-                if(temp%10==0)return n;
-                curr*=temp%10;
-                temp/=10;
-            }
-            if(curr%t==0){
-                return n;
-                break;
-            }else{
-                n++;
-            }
+        for(int z=n; z<n+10; z++){
+            if (product_digit(z)%t==0) return z;
         }
         return 0;
     }
