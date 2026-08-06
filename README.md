@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shreyansh0711/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Shreyansh0711/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shreyansh0711/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shreyansh0711/LeetCode/tree/master/0733-flood-fill) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shreyansh0711/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Shreyansh0711/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Shreyansh0711/LeetCode/tree/master/0069-sqrtx) |
+| [0279-perfect-squares](https://github.com/Shreyansh0711/LeetCode/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyansh0711/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Shreyansh0711/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Shreyansh0711/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shreyansh0711/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0494-target-sum) |
@@ -270,12 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Shreyansh0711/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shreyansh0711/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Shreyansh0711/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shreyansh0711/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
