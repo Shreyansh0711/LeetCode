@@ -5,7 +5,7 @@ public:
         unordered_map<string,int>mp;
         if (s.size() < 10)
             return ans;
-        for(int i=0;i<=s.size()-10;i++){
+        for(int i=0;i+10<=s.size();i++){
             string curr=s.substr(i,10);
             mp[curr]++;
             if(mp[curr]==2){
