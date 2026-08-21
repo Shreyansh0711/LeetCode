@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shreyansh0711/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shreyansh0711/LeetCode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shreyansh0711/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Shreyansh0711/LeetCode/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0187-repeated-dna-sequences) |
