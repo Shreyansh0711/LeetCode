@@ -15,7 +15,7 @@ public:
     }
     bool canPartition(vector<int>& nums) {
         int sm=accumulate(nums.begin(),nums.end(),0);
-        vector<vector<int>>dp(nums.size()+1,vector<int>(sm/2+1,-1));
+        vector<vector<int>>dp(nums.size(),vector<int>(sm/2+1,-1));
         if(sm%2!=0){
             return false;
         }
