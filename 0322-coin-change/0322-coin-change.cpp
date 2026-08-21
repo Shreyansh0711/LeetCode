@@ -5,16 +5,14 @@ public:
             if (tar % coins[idx] == 0)
                 return tar / coins[idx];
             else
-                return INT_MAX;
+                return 1e9;
         }
         if (dp[idx][tar] != -1)
-    return dp[idx][tar];
+        return dp[idx][tar];
         int ntake = find(idx - 1, tar, coins, dp);
-        int take = INT_MAX;
+        int take = 1e9;
         if (coins[idx] <= tar) {
-            int res = find(idx, tar - coins[idx], coins, dp);
-            if (res != INT_MAX)
-                take = 1 + res;
+            take = 1+find(idx, tar - coins[idx], coins, dp);
         }
         return dp[idx][tar] = min(take, ntake);
     }
@@ -22,6 +20,9 @@ public:
         int n = coins.size();
         vector<vector<int>> dp(n, vector<int>(amount + 1, -1));
         int ans = find(n - 1, amount, coins, dp);
-        return (ans == INT_MAX) ? -1 : ans;
+        if(ans == 1e9){
+            return -1;
+        }
+        return ans;
     }
 };
