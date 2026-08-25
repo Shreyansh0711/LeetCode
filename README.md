@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Shreyansh0711/LeetCode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/Shreyansh0711/LeetCode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Shreyansh0711/LeetCode/tree/master/0198-house-robber) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Shreyansh0711/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shreyansh0711/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Shreyansh0711/LeetCode/tree/master/0279-perfect-squares) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreyansh0711/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Shreyansh0711/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Shreyansh0711/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Shreyansh0711/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -402,4 +406,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shreyansh0711/LeetCode/tree/master/0044-wildcard-matching) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
