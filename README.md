@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh0711/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/Shreyansh0711/LeetCode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3663-find-the-least-frequent-digit](https://github.com/Shreyansh0711/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Shreyansh0711/LeetCode/tree/master/1510-stone-game-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shreyansh0711/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3259-maximum-energy-boost-from-two-drinks](https://github.com/Shreyansh0711/LeetCode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Shreyansh0711/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Depth-First Search
