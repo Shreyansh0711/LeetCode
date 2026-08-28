@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Shreyansh0711/LeetCode/tree/master/1510-stone-game-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shreyansh0711/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Shreyansh0711/LeetCode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Shreyansh0711/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh0711/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyansh0711/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyansh0711/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0179-largest-number) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2498-frog-jump-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/2498-frog-jump-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
