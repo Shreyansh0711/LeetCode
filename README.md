@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shreyansh0711/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyansh0711/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2498-frog-jump-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/2498-frog-jump-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0179-largest-number) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyansh0711/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2498-frog-jump-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/2498-frog-jump-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
