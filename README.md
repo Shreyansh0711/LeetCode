@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shreyansh0711/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shreyansh0711/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Shreyansh0711/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Shreyansh0711/LeetCode/tree/master/0740-delete-and-earn) |
 | [0861-score-after-flipping-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0861-score-after-flipping-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shreyansh0711/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shreyansh0711/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Shreyansh0711/LeetCode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreyansh0711/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1024-video-stitching](https://github.com/Shreyansh0711/LeetCode/tree/master/1024-video-stitching) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Shreyansh0711/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shreyansh0711/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0861-score-after-flipping-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1024-video-stitching](https://github.com/Shreyansh0711/LeetCode/tree/master/1024-video-stitching) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
