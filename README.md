@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreyansh0711/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/Shreyansh0711/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Shreyansh0711/LeetCode/tree/master/0740-delete-and-earn) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shreyansh0711/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Shreyansh0711/LeetCode/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreyansh0711/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1092-shortest-common-supersequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shreyansh0711/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyansh0711/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2498-frog-jump-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/2498-frog-jump-ii) |
@@ -481,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
