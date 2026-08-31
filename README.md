@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/Shreyansh0711/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Shreyansh0711/LeetCode/tree/master/0740-delete-and-earn) |
+| [0861-score-after-flipping-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0994-rotting-oranges](https://github.com/Shreyansh0711/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shreyansh0711/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shreyansh0711/LeetCode/tree/master/0733-flood-fill) |
+| [0861-score-after-flipping-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0994-rotting-oranges](https://github.com/Shreyansh0711/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shreyansh0711/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shreyansh0711/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0861-score-after-flipping-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shreyansh0711/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyansh0711/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Shreyansh0711/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0861-score-after-flipping-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyansh0711/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2498-frog-jump-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/2498-frog-jump-ii) |
