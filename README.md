@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shreyansh0711/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Shreyansh0711/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Shreyansh0711/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Shreyansh0711/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shreyansh0711/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Shreyansh0711/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Shreyansh0711/LeetCode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Shreyansh0711/LeetCode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Shreyansh0711/LeetCode/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/Shreyansh0711/LeetCode/tree/master/1510-stone-game-iv) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shreyansh0711/LeetCode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh0711/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Longest Common Subsequence
@@ -503,4 +506,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreyansh0711/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreyansh0711/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreyansh0711/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shreyansh0711/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
