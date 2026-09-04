@@ -144,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Shreyansh0711/LeetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Shreyansh0711/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0045-jump-game-ii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Shreyansh0711/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Shreyansh0711/LeetCode/tree/master/0072-edit-distance) |
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
