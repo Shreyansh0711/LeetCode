@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Shreyansh0711/LeetCode/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shreyansh0711/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shreyansh0711/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0120-triangle) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Shreyansh0711/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Shreyansh0711/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Shreyansh0711/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0120-triangle) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Shreyansh0711/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Shreyansh0711/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
