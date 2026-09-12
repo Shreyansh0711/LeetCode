@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyansh0711/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyansh0711/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh0711/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyansh0711/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
@@ -587,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0022-generate-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
