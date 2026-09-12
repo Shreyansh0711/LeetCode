@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh0711/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyansh0711/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shreyansh0711/LeetCode/tree/master/0044-wildcard-matching) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
