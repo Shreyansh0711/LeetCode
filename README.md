@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shreyansh0711/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Shreyansh0711/LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Shreyansh0711/LeetCode/tree/master/0740-delete-and-earn) |
+| [0835-image-overlap](https://github.com/Shreyansh0711/LeetCode/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0994-rotting-oranges](https://github.com/Shreyansh0711/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shreyansh0711/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Shreyansh0711/LeetCode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Shreyansh0711/LeetCode/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0994-rotting-oranges](https://github.com/Shreyansh0711/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shreyansh0711/LeetCode/tree/master/1020-number-of-enclaves) |
