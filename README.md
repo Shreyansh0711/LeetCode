@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Shreyansh0711/LeetCode/tree/master/1510-stone-game-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shreyansh0711/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyansh0711/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Shreyansh0711/LeetCode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Shreyansh0711/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh0711/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyansh0711/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyansh0711/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyansh0711/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/Shreyansh0711/LeetCode/tree/master/1024-video-stitching) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyansh0711/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyansh0711/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2498-frog-jump-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/2498-frog-jump-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shreyansh0711/LeetCode/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyansh0711/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Pigeonhole Principle
 |  |
 | ------- |
