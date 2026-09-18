@@ -10,7 +10,7 @@ public:
             if(mp.find(sm-y)!=mp.end()){
                 len=max(len,i-mp[sm-y]);
             }
-            if(mp.find(sm-y)==mp.end()){
+            if(mp.find(sm)==mp.end()){
                 mp[sm]=i;
             }
         }
@@ -18,9 +18,6 @@ public:
     }
     int minOperations(vector<int>& nums, int x) {
         int n=nums.size();
-        if(n==5){
-            if(nums[0]==2&&nums[1]==3&&nums[2]==1&&nums[3]==1&&nums[4]==1)return 2;
-        }
         int sm=accumulate(nums.begin(),nums.end(),0);
         int y=sm-x;
         if(y==0)return n;
