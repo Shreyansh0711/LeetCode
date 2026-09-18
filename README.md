@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Shreyansh0711/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Shreyansh0711/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreyansh0711/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/Shreyansh0711/LeetCode/tree/master/0525-contiguous-array) |
 | [0740-delete-and-earn](https://github.com/Shreyansh0711/LeetCode/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Shreyansh0711/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3904-smallest-stable-index-ii) |
