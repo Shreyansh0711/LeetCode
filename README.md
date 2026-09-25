@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Shreyansh0711/LeetCode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Shreyansh0711/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shreyansh0711/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Shreyansh0711/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shreyansh0711/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Shreyansh0711/LeetCode/tree/master/0198-house-robber) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Shreyansh0711/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Shreyansh0711/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Shreyansh0711/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0187-repeated-dna-sequences) |
