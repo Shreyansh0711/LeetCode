@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Shreyansh0711/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh0711/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shreyansh0711/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Shreyansh0711/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Shreyansh0711/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0654-maximum-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Combinatorics
 |  |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
