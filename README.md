@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyansh0711/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Shreyansh0711/LeetCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Shreyansh0711/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Shreyansh0711/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -678,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shreyansh0711/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shreyansh0711/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shreyansh0711/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
