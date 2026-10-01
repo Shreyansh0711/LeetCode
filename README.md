@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shreyansh0711/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0687-longest-univalue-path](https://github.com/Shreyansh0711/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/Shreyansh0711/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shreyansh0711/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Shreyansh0711/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0112-path-sum) |
 | [0654-maximum-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Shreyansh0711/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shreyansh0711/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0112-path-sum) |
 | [0654-maximum-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Shreyansh0711/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shreyansh0711/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Knapsack Problem
@@ -687,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Shreyansh0711/LeetCode/tree/master/0278-first-bad-version) |
+## DP on Trees
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/Shreyansh0711/LeetCode/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
