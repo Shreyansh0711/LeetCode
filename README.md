@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shreyansh0711/LeetCode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Shreyansh0711/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Shreyansh0711/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shreyansh0711/LeetCode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Shreyansh0711/LeetCode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0313-super-ugly-number) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shreyansh0711/LeetCode/tree/master/0525-contiguous-array) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shreyansh0711/LeetCode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyansh0711/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
