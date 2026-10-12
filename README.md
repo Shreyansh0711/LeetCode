@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyansh0711/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh0711/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shreyansh0711/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyansh0711/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/Shreyansh0711/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh0711/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Shreyansh0711/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyansh0711/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Bracket Sequences
