@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0202-happy-number) |
+| [0299-bulls-and-cows](https://github.com/Shreyansh0711/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shreyansh0711/LeetCode/tree/master/0525-contiguous-array) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shreyansh0711/LeetCode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Shreyansh0711/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0299-bulls-and-cows](https://github.com/Shreyansh0711/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Shreyansh0711/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Shreyansh0711/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
