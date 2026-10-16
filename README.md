@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyansh0711/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyansh0711/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/3731-find-missing-elements) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Shreyansh0711/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/Shreyansh0711/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shreyansh0711/LeetCode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2498-frog-jump-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/2498-frog-jump-ii) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Shreyansh0711/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Shortest Path
 |  |
 | ------- |
