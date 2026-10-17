@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shreyansh0711/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3965-finish-time-of-tasks-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3965-finish-time-of-tasks-i) |
 ## Graph Theory
 |  |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shreyansh0711/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3965-finish-time-of-tasks-i) |
 ## Binary Tree
