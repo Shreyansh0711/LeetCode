@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Shreyansh0711/LeetCode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Matrix
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shreyansh0711/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Shreyansh0711/LeetCode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3965-finish-time-of-tasks-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3965-finish-time-of-tasks-i) |
 ## Graph Theory
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Shreyansh0711/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shreyansh0711/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Shreyansh0711/LeetCode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/Shreyansh0711/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shreyansh0711/LeetCode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2498-frog-jump-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/2498-frog-jump-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Shreyansh0711/LeetCode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Shreyansh0711/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Shortest Path
 |  |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Shreyansh0711/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreyansh0711/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shreyansh0711/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Shreyansh0711/LeetCode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Sorting
 |  |
 | ------- |
