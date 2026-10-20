@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyansh0711/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shreyansh0711/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/Shreyansh0711/LeetCode/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shreyansh0711/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shreyansh0711/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shreyansh0711/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh0711/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/Shreyansh0711/LeetCode/tree/master/1163-last-substring-in-lexicographical-order) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shreyansh0711/LeetCode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyansh0711/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Pigeonhole Principle
@@ -768,4 +770,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/Shreyansh0711/LeetCode/tree/master/0337-house-robber-iii) |
 | [0687-longest-univalue-path](https://github.com/Shreyansh0711/LeetCode/tree/master/0687-longest-univalue-path) |
+## Lyndon Factorization
+|  |
+| ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/Shreyansh0711/LeetCode/tree/master/1163-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->
