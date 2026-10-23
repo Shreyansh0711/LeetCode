@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/Shreyansh0711/LeetCode/tree/master/3912-valid-elements-in-an-array) |
 | [3965-finish-time-of-tasks-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3965-finish-time-of-tasks-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyansh0711/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh0711/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/3731-find-missing-elements) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
 | ------- |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh0711/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shreyansh0711/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh0711/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyansh0711/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shreyansh0711/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Bracket Sequences
 |  |
 | ------- |
