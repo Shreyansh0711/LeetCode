@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyansh0711/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3663-find-the-least-frequent-digit](https://github.com/Shreyansh0711/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyansh0711/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Shreyansh0711/LeetCode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Matrix
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shreyansh0711/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shreyansh0711/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Shreyansh0711/LeetCode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3965-finish-time-of-tasks-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3965-finish-time-of-tasks-i) |
 ## Graph Theory
 |  |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
