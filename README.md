@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/Shreyansh0711/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shreyansh0711/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/Shreyansh0711/LeetCode/tree/master/3912-valid-elements-in-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shreyansh0711/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shreyansh0711/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shreyansh0711/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyansh0711/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shreyansh0711/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Shreyansh0711/LeetCode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
 | [3638-maximum-balanced-shipments](https://github.com/Shreyansh0711/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Shreyansh0711/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Shreyansh0711/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3965-finish-time-of-tasks-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3965-finish-time-of-tasks-i) |
 ## Depth-First Search
 |  |
