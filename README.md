@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyansh0711/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shreyansh0711/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh0711/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shreyansh0711/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2409-count-days-spent-together](https://github.com/Shreyansh0711/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyansh0711/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shreyansh0711/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shreyansh0711/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/Shreyansh0711/LeetCode/tree/master/3663-find-the-least-frequent-digit) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shreyansh0711/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
