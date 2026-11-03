@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Shreyansh0711/LeetCode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyansh0711/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shreyansh0711/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Shreyansh0711/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shreyansh0711/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shreyansh0711/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Shreyansh0711/LeetCode/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shreyansh0711/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shreyansh0711/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2409-count-days-spent-together](https://github.com/Shreyansh0711/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyansh0711/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shreyansh0711/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyansh0711/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
