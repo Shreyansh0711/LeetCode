@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Shreyansh0711/LeetCode/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Shreyansh0711/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Shreyansh0711/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/Shreyansh0711/LeetCode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [2409-count-days-spent-together](https://github.com/Shreyansh0711/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyansh0711/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyansh0711/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyansh0711/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/Shreyansh0711/LeetCode/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shreyansh0711/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2409-count-days-spent-together](https://github.com/Shreyansh0711/LeetCode/tree/master/2409-count-days-spent-together) |
