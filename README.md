@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Shreyansh0711/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Shreyansh0711/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0593-valid-square](https://github.com/Shreyansh0711/LeetCode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shreyansh0711/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Shreyansh0711/LeetCode/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Shreyansh0711/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shreyansh0711/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Interactive
