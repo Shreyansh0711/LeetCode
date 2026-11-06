@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/Shreyansh0711/LeetCode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Shreyansh0711/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shreyansh0711/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0970-powerful-integers](https://github.com/Shreyansh0711/LeetCode/tree/master/0970-powerful-integers) |
 | [1399-count-largest-group](https://github.com/Shreyansh0711/LeetCode/tree/master/1399-count-largest-group) |
