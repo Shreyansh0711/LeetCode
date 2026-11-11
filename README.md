@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/Shreyansh0711/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shreyansh0711/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Shreyansh0711/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shreyansh0711/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyansh0711/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shreyansh0711/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Shreyansh0711/LeetCode/tree/master/1510-stone-game-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shreyansh0711/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shreyansh0711/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Shreyansh0711/LeetCode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shreyansh0711/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3259-maximum-energy-boost-from-two-drinks](https://github.com/Shreyansh0711/LeetCode/tree/master/3259-maximum-energy-boost-from-two-drinks) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/Shreyansh0711/LeetCode/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shreyansh0711/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shreyansh0711/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shreyansh0711/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh0711/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shreyansh0711/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Shreyansh0711/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shreyansh0711/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shreyansh0711/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shreyansh0711/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shreyansh0711/LeetCode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2498-frog-jump-ii](https://github.com/Shreyansh0711/LeetCode/tree/master/2498-frog-jump-ii) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Shreyansh0711/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1818-minimum-absolute-sum-difference](https://github.com/Shreyansh0711/LeetCode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shreyansh0711/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2008-maximum-earnings-from-taxi](https://github.com/Shreyansh0711/LeetCode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shreyansh0711/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Shreyansh0711/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/Shreyansh0711/LeetCode/tree/master/2332-the-latest-time-to-catch-a-bus) |
