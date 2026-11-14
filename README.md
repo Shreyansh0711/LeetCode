@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Shreyansh0711/LeetCode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Shreyansh0711/LeetCode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/Shreyansh0711/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shreyansh0711/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/2581-count-number-of-possible-root-nodes) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Shreyansh0711/LeetCode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Shreyansh0711/LeetCode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shreyansh0711/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/2581-count-number-of-possible-root-nodes) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Shreyansh0711/LeetCode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shreyansh0711/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Knapsack Problem
 |  |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Shreyansh0711/LeetCode/tree/master/0337-house-robber-iii) |
 | [0687-longest-univalue-path](https://github.com/Shreyansh0711/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Shreyansh0711/LeetCode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Shreyansh0711/LeetCode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 ## Lyndon Factorization
 |  |
 | ------- |
