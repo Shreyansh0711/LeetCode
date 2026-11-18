@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shreyansh0711/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Shreyansh0711/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Shreyansh0711/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Shreyansh0711/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Shreyansh0711/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Shreyansh0711/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Shreyansh0711/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1254-number-of-closed-islands](https://github.com/Shreyansh0711/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shreyansh0711/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Shreyansh0711/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shreyansh0711/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Shreyansh0711/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Shreyansh0711/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1361-validate-binary-tree-nodes](https://github.com/Shreyansh0711/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shreyansh0711/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Shreyansh0711/LeetCode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -861,4 +864,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Shreyansh0711/LeetCode/tree/master/0812-largest-triangle-area) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Shreyansh0711/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
